@@ -49,4 +49,20 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+```
+Copyright 2024 DPA
+
+Licenciado sob a Licença CC-BY-NC-ND-4.0;
+você não pode usar este arquivo exceto em conformidade com a Licença.
+Você pode obter uma cópia da Licença em
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+A menos que exigido pela lei aplicável ou acordado por escrito, o software
+distribuído sob a Licença é distribuído "NO ESTADO EM QUE SE ENCONTRA",
+SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas.
+Veja a Licença para o idioma específico que rege as permissões e
+limitações sob a Licença.
+
+Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+```
