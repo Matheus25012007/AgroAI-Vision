@@ -3,9 +3,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+
 
 <img src="logo.png" alt="Logo">
 
@@ -49,13 +47,12 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
 
 # Preview:
 <img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/logo.png" alt="Splash Screen" width="98" height="200" /> <img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/telaLoginWhite.png.jpg" alt="Tela de Login(Claro)" width="100" height="200" /> 
-<img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/telaLoginDark.png.jpg" alt="Tela de Login(Escuro)" width="100" height="200" /> 
-<img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/TelaPrincipalWhite.jpg" alt="Tela Inicio(Claro)" width="100" height="200" /> 
-<img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/telaPrincipalDark.jpg" alt="Tela de Inicio(Escuro)" width="100" height="200" /> 
-<img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/produtosWhite.jpg" alt="Tela dos Produtos(Claro)" width="100" height="200" /> 
-<img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/produtosDark.jpg" alt="Tela dos Produtos(Escuro)" width="100" height="200" /> 
-<img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/CarrinhoWhite.jpg" alt="Tela de Carrinho(Claro)" width="100" height="200" />
-<img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/CarrinhoDark.jpg" alt="Tela de Carrinho(Escuro)" width="100" height="200" /> 
+<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaDoencas.png" alt="Tela de Doenças" width="100" height="200" /> 
+<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaMapa.png" alt="Tela Mapa" width="100" height="200" /> 
+<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaMapaOffline.png" alt="Tela Mapa Offline" width="100" height="200" /> 
+<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/btnCamera.png" alt="Btn Camera" width="100" height="200" /> 
+<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/imgRenderizada.png" alt="Imagem Renderizada" width="100" height="200" /> 
+
 
 ## 📝 Licença
 
