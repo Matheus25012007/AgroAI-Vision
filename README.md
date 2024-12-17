@@ -63,6 +63,6 @@ distribuído sob a Licença é distribuído "NO ESTADO EM QUE SE ENCONTRA",
 SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas.
 Veja a Licença para o idioma específico que rege as permissões e
 limitações sob a Licença.
-
-Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 ```
+Veja o arquivo [LICENCE](LICENSE) para mais detalhes.
+
