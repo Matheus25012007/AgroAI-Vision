@@ -1,0 +1,4 @@
+Acaro Vermelho, -47.065106, -22.874478 
+Ferrugem Cafeeira, -22.874551, -47.065289
+Bicho Mineiro, -22.874661,  -47.065362
+Cercospora coffeicola, -47.065512, -22.874627
