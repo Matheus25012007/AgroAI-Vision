@@ -1,8 +1,8 @@
 
 # DPA
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/DelValle0012/PragueCombat?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DelValle0012/PragueCombat?style=for-the-badge)
 
 
 <img src="logo.png" alt="Logo">
