@@ -1,5 +1,5 @@
 
-# DPA
+# AgroAI Vision
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DelValle0012/DPA?style=for-the-badge)  
 ![GitHub language count](https://img.shields.io/github/languages/count/DelValle0012/DPA?style=for-the-badge)
@@ -16,26 +16,32 @@
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou as dependências presentes no `Requirements.txt` ou
-- Você tem máquina virtual chamada `DPAVF`.
+- Você tem máquina virtual chamada `DPAVF`. Caso ainda não tenha, [clique aqui para fazer o download](https://drive.google.com/drive/folders/1XS9U8ukY6sCi-cNIkwGDrP4UhMYsA-Ls?usp=sharing)
+- Uma IDE como o Visual Studio Code (ou equivalente) está instalada para executar o aplicativo.
+  
 
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando AgroAI Vision
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o AgroAI Vision, siga estas etapas:
 
 Windows:
 
 ```
-<comando_de_instalação>
+git clone https://github.com/DelValle0012/AgroAI-Vision.git
 ```
 
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
 ```
-<exemplo_de_uso>
+cd AgroAI-Vision
 ```
+
+## ☕ Usando AgroAI Vision
+
+Para usar AgroAI Vision, siga estas etapas:
+
+1. Habilite o modo desenvolvedor no seu dispositivo Android e ative a depuração USB
+2. Certifique-se de que um dispositivo Android está conectado via USB
+3. 
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
 
@@ -50,7 +56,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
 ## 📝 Licença
 
 ```
-Copyright 2024 DPA
+Copyright 2024 AgroAI Vision
 
 Licenciado sob a Licença CC-BY-NC-ND-4.0;
 você não pode usar este arquivo exceto em conformidade com a Licença.
