@@ -9,7 +9,7 @@
 
 > Este é um projeto de conclusão de curso que utiliza visão computacional para a detecção de pragas no cultivo do café. A detecção é feita por meio de um drone, e quando se é detectada, é criado um mapa para a visualização.
 
-
+Você pode também dar uma olhada no relatório de pesquisa feito. [Clique aqui para acessar](https://drive.google.com/drive/folders/1LQsCwucPp1_F5gqI1jyFQT958xkkxmXJ?usp=sharing)
 
 ## 💻 Pré-requisitos
 
@@ -37,13 +37,23 @@ cd AgroAI-Vision
 
 ## ☕ Usando AgroAI Vision
 
-Para usar AgroAI Vision, siga estas etapas:
+### Para usar AgroAI Vision, siga estas etapas:
 
 1. Habilite o modo desenvolvedor no seu dispositivo Android e ative a depuração USB
 2. Certifique-se de que um dispositivo Android está conectado via USB
-3. 
+3. Vá para a tela chamada "drone" e aperte no botão "conectar"
+4. Abra a câmera do celular a aponte para uma planta de café doente ou uma foto de uma.
+5. Após isso pode se observar as detecções sendo feitas.
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+### Você pode também gerar um mapa com base nas detecções, seguindo estas etapas:
+
+1. Vá para a tela chamada "Mapa" e aperte no botão "Gerar Mapa".
+2. Após isso, abra o mapa pressionando o botão "Abrir Mapa".
+
+### ou renderizar uma imagem para fazer a detecção:
+
+1. Vá para a tela chamada "Camera" e escolha a imagem desejada.
+2. Aguarde um momento e será exibido a imagem com as predições feitas.
 
 # Preview:
 <img src="https://github.com/DelValle0012/Capi-Cazzo/blob/main/imagens/logo.png" alt="Splash Screen" width="98" height="200" /> <img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaDoencas.png" alt="Tela de Doenças" width="270" height="200" /> 
