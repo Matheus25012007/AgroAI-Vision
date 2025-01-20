@@ -56,10 +56,15 @@ cd AgroAI-Vision
 2. Aguarde um momento e será exibido a imagem com as predições feitas.
 
 # Preview:
-<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaMapa.png" alt="Tela Mapa" width="270" height="200" /> 
-<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaMapaOffline.png" alt="Tela Mapa Offline" width="270" height="200" /> 
-<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/btnCamera.png" alt="Btn Camera" width="270" height="200" /> 
-<img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/imgRenderizada.png" alt="Imagem Renderizada" width="270" height="200" /> 
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaMapa.png" alt="Tela Mapa" width="45%" />
+  <img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/TelaMapaOffline.png" alt="Tela Mapa Offline" width="45%" />
+  
+  <img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/btnCamera.png" alt="Btn Camera" width="45%" />
+  <img src="https://github.com/DelValle0012/PragueCombat/blob/main/imgrepo/imgRenderizada.png" alt="Imagem Renderizada" width="45%" />
+</div>
+
 
 
 ## 📝 Licença
