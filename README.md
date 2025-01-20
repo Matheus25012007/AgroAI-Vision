@@ -5,8 +5,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/DelValle0012/DPA?style=for-the-badge)
 
 
-<img src="logo.png" alt="Logo">
-
 > Este é um projeto de conclusão de curso que utiliza visão computacional para a detecção de pragas no cultivo do café. A detecção é feita por meio de um drone, e quando se é detectada, é criado um mapa para a visualização.
 
 Você pode também dar uma olhada no relatório de pesquisa feito. [Clique aqui para acessar](https://drive.google.com/drive/folders/1LQsCwucPp1_F5gqI1jyFQT958xkkxmXJ?usp=sharing)
